@@ -61,3 +61,8 @@ This project investigates bias and rating patterns in student evaluations of pro
 
 ## 📁 Project Structure
 
+```plaintext
+APE-capstone/
+├── MS_DS.pdf            # Final report with analysis, visualizations, and interpretations
+├── ape_capstone.py      # Full Python script for data cleaning, analysis, and modeling
+├── README.md            # Project description and structure (this file)
